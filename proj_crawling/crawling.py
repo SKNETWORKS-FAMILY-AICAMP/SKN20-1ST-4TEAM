@@ -21,7 +21,7 @@ driver.get(url)
 driver.maximize_window() # 전체 화면으로 실행  옵션
 print('사이트 접속했습니다.')
 # 사이트가 로드될때까지 기다린다.
-time.sleep(3)
+time.sleep(3) 
 
 for i in range(10):
     try:
