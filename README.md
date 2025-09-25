@@ -238,7 +238,7 @@
 </tr>
 </table>
 
-### 7.3. FAQ 대시보드드
+### 7.3. FAQ 대시보드
 
 - TOP10 FAQ
 <table>
