@@ -53,7 +53,6 @@ for i, btn in enumerate(buttons, start=1):
         ans_el = driver.find_element(By.ID, panel_id)
         a = ans_el.text.strip()
         if q and a:
-            # company 제거 / category만 유지 (EV로 저장)
             rows.append(("EV", q, a))
             print(f"[{i}] Q: {q} | A_len: {len(a)}")
     except Exception as e:
@@ -71,13 +70,12 @@ time.sleep(1)
 driver.quit()
 
 # ============================================
-# 2) MySQL 저장 (company/crawled_at 없이 설계)
+# 2) MySQL 저장 
 #    - 테이블 자동 생성(없으면)
-#    - 과거 스키마에 company/crawled_at 있으면 자동 삭제
 # ============================================
 DB_HOST = "localhost"
 DB_USER = "root"
-DB_PW   = "root1234"   # <-- 실제 비번으로 바꾸세요
+DB_PW   = "root1234"   # <-- 실제 비번으로 바꾸기
 DB_NAME = "car_db"
 
 try:
