@@ -169,6 +169,7 @@
 </table>
 
 
+
 #### 6.2.2. FAQ ERD 다이어그램
 <table>
 <tr>
@@ -189,26 +190,30 @@
 <table>
 <tr>
 <td>
-<img width="1908" height="872" alt="{9A40732B-E05B-4379-B5DF-3FDF83AADE74}" src="https://github.com/user-attachments/assets/17c6ec0a-bcdf-40f0-9d21-05bdfcbef437" />
+<img width="1908" height="872" alt="{9A40732B-E05B-4379-B5DF-3FDF83AADE74}" src="https://github.com/user-attachments/assets/82cfdd49-bb92-433b-96a8-6bf146c686b5" />
 </td>
 </tr>
 </table>
+
+
 
 - 전기차 연료가 탑재된 승용차의 연도별 현황 (연료 : 전기 / 차종 : 전체)
 <table>
 <tr>
 <td>
-<img width="1906" height="865" alt="{B4899705-FCB0-42C9-A530-C8A760F0C3B4}" src="https://github.com/user-attachments/assets/9725ffc0-e10e-4f5f-8fce-50ae06e33674" />
+<img width="1337" height="769" alt="{E3FAC371-A171-4378-A368-2E390031EACB}" src="https://github.com/user-attachments/assets/e3cd8f80-32b2-44c7-8ac5-ead233ba8dd2" />
 </td>
 </tr>
 </table>
+
+
 
 ### 7.2. 연도별 연료 순위 대시보드
 - 2015년 연료 순위
 <table>
 <tr>
 <td>
-<img width="1882" height="769" alt="{622E2FC6-09C4-4242-B8F7-12E20142DCE9}" src="https://github.com/user-attachments/assets/9303e5fb-e74d-4a3b-ba51-002949c2c67e" />
+<img width="1337" height="677" alt="{9403F32E-0005-47F1-A3FC-E9F0CBD38E16}" src="https://github.com/user-attachments/assets/d01d4b06-1367-42d0-9215-ccfa4fd1b926" />
 </td>
 </tr>
 </table>
@@ -217,23 +222,26 @@
 <table>
 <tr>
 <td>
-<img width="1865" height="780" alt="{802F7236-EC5D-47F0-B86F-10CE7493C30F}" src="https://github.com/user-attachments/assets/02fc4ed1-d9bc-44a9-92d6-3cd61f45d182" />
+<img width="1362" height="671" alt="{B83A45B6-F7A3-4B99-9E08-B208950D268D}" src="https://github.com/user-attachments/assets/8faf66aa-bd68-43f2-ba79-2d372c391769" />
 </td>
 </tr>
 </table>
+
+
+
 
 - 2015년 연료 순위와 2024년 연료 순위 중 TOP3 이후 연료만 확대하여 비교가능
 <table>
 <tr>
 <td>
-<img width="1564" height="603" alt="{92D4F4F6-16AB-433A-9A94-3ADDA27878A3}" src="https://github.com/user-attachments/assets/9dbc4bfb-189c-4302-b9fc-b17b78ee8fe6" />
+<img width="1066" height="574" alt="{361FCF5D-A35C-43CC-BAEC-A27EFAA3582A}" src="https://github.com/user-attachments/assets/36462c9a-6f12-448a-a8cb-c532bfea2543" />
 </td>
 </tr>
 </table>
 <table>
 <tr>
 <td>
-<img width="1537" height="594" alt="{70B2EDBD-6F28-4038-A59C-78DBD23EFACB}" src="https://github.com/user-attachments/assets/0bc4a00f-6519-4106-b363-c732d6e7a784" />
+<img width="1070" height="579" alt="{79D55AC8-1B5F-4D81-B8ED-B99D93F024D7}" src="https://github.com/user-attachments/assets/78c2a03b-ad68-43b4-b9f0-b12d49a415c7" />
 </td>
 </tr>
 </table>
@@ -244,7 +252,7 @@
 <table>
 <tr>
 <td>
-<img width="1861" height="843" alt="{F6BC3D29-C11A-4872-A2B5-CAEF636E3888}" src="https://github.com/user-attachments/assets/63a502c9-d9be-42f0-a259-e891dc279eb2" />
+<img width="1331" height="692" alt="{2B03C093-17D0-49FB-AAE1-11C9B5133297}" src="https://github.com/user-attachments/assets/f232becc-36fd-44b4-b859-095aae1d79b6" />  
 </td>
 </tr>
 </table>
@@ -253,7 +261,7 @@
 <table>
 <tr>
 <td>
-<img width="1885" height="690" alt="{07E945A1-69C4-4DA5-84CD-0325D048D833}" src="https://github.com/user-attachments/assets/fdaef3f7-d236-484b-ae7c-6be1ebd1c9f0" />
+<img width="1329" height="657" alt="{6F58E501-93A8-4424-981A-6E1D321F6098}" src="https://github.com/user-attachments/assets/eb855f58-98ed-4991-b760-b1f808532e82" />
 </td>
 </tr>
 </table>
@@ -262,7 +270,7 @@
 <table>
 <tr>
 <td>
-<img width="1882" height="580" alt="{ED23EA5E-601F-4845-9382-6E669963248F}" src="https://github.com/user-attachments/assets/d4f66015-ce2d-4170-a64f-70c279ae2adb" />
+<img width="1342" height="581" alt="{ABBDA911-AC79-4E8E-837F-5758B3B57F66}" src="https://github.com/user-attachments/assets/2cf912dc-e21a-458d-99ba-0dcc9091fafd" />
 </td>
 </tr>
 </table>
