@@ -55,8 +55,10 @@ st.markdown(
 # -------------------------------
 # Streamlit 페이지
 # -------------------------------
-menu = st.sidebar.selectbox("메뉴", ["연료별 차량 현황", "연도별 연료 순위", "FAQ"])
 st.sidebar.image(r"D:\0python_SNC\project1\image\prj1_1.png",width=500)
+
+menu = st.sidebar.selectbox("메뉴", ["연료별 차량 현황", "연도별 연료 순위", "FAQ"])
+
 
 
 df = load_data()
